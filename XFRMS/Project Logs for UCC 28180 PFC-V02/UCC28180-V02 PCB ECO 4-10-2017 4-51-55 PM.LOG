@@ -1,0 +1,147 @@
+Added Component: Designator=D7(SODFL360X95-2N)
+Added Pin To Net: NetName=12V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=12V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=12V Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetC16_2 Pin=D2-2
+Added Pin To Net: NetName=NetC16_2 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_3 Pin=D4-3
+Added Pin To Net: NetName=NetBR1_1 Pin=D5-1
+Added Pin To Net: NetName=NetC17_1 Pin=D5-2
+Added Pin To Net: NetName=NetC17_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetC16_2 Pin=D7-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J3-1
+Added Pin To Net: NetName=NetC11_2 Pin=J4-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetC10_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetC9_2 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC12_2 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-2
+Added Pin To Net: NetName=NetC10_2 Pin=R5-1
+Added Pin To Net: NetName=NetC13_2 Pin=R5-2
+Added Pin To Net: NetName=NetC11_2 Pin=R6-1
+Added Pin To Net: NetName=NetC12_2 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetBR1_4 Pin=R8-1
+Added Pin To Net: NetName=NetC15_2 Pin=R8-2
+Added Pin To Net: NetName=NetC16_2 Pin=R9-1
+Added Pin To Net: NetName=NetD1_1 Pin=R9-2
+Added Pin To Net: NetName=NetC16_2 Pin=R10-1
+Added Pin To Net: NetName=NetD4_3 Pin=R10-2
+Added Pin To Net: NetName=NetC16_2 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=NetD6_2 Pin=R12-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R12-2
+Added Pin To Net: NetName=NetC16_2 Pin=R13-1
+Added Pin To Net: NetName=NetD7_1 Pin=R13-2
+Added Pin To Net: NetName=NetC16_2 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=NetBR1_4 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetR4_1 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=12V Pin=TP9-1
+Added Pin To Net: NetName=NetJ2_2 Pin=TP10-1
+Added Pin To Net: NetName=NetJ2_2 Pin=TP11-1
+Added Pin To Net: NetName=NetC12_2 Pin=TP12-1
+Added Pin To Net: NetName=NetC15_2 Pin=TP13-1
+Added Pin To Net: NetName=NetJ5_1 Pin=TP14-1
+Added Pin To Net: NetName=NetJ5_1 Pin=TP15-1
+Added Pin To Net: NetName=NetC16_2 Pin=TP18-1
+Added Pin To Net: NetName=GND Pin=TP19-1
+Added Pin To Net: NetName=NetR4_1 Pin=TP20-1
+Added Pin To Net: NetName=NetJ2_2 Pin=U1-2
+Added Pin To Net: NetName=NetC15_2 Pin=U1-3
+Added Pin To Net: NetName=NetC9_2 Pin=U1-4
+Added Pin To Net: NetName=NetJ5_1 Pin=U1-5
+Added Pin To Net: NetName=NetC12_2 Pin=U1-6
+Added Pin To Net: NetName=12V Pin=U1-7
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-8
+Added Pin To Net: NetName=12V Pin=U2-1
+Added Pin To Net: NetName=NetD1_3 Pin=U2-2
+Added Pin To Net: NetName=NetD4_1 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=NetJ1_2 Pin=U2-6
+Change Class Name : Old Net Name=Components Class 1 New Net Name=UCC28180-2-V02
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component C6 ECA-1VM470
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component C7 06035C104KAT2A
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component C8 GRM32RR71H105KA01K
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component C9 
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component C15 06031C102KAT2A
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component C16 C0603C22NF
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component CN2 1935776
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component D1 DB2W40300L
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component D2 1SMA12CAT3G
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component D3 1SMB5927BT3G
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component D4 DB2W40300L
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component D6 C3D04060A
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component D7 MBR140SFT1G
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component J1 M20-9990246
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component J2 M20-9990246
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component J3 M20-9990246
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component J4 M20-9990246
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component J5 M20-9990246
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component J6 M20-9990246
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component R1 CRCW060317K8FKEA
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component R9 CRCW0805R10
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component R10 CRCW0805R4.99
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component R11 CRCW0603RES10K
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component R12 CRCWRSHUNT
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component R13 ERJ-P14J3R3U
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component R14 CRCW060310K0FKEA
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component R15 CRCW2512R0.027
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component R16 CRCW120649R9FKEA
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component TP3 5006
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component TP9 5006
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component TP10 5006
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component TP11 5006
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component TP12 5006
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component TP13 5006
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component TP14 5006
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component TP15 5006
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component TP18 5006
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component TP19 5006
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component TP20 5006
+Added Member To Class: ClassName=UCC28180-2-V02 Member=Component U1 UCC28180DR
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component U2 UCC27511DBV
+Added Room: Name=UCC 28180-1-V02
+Added Room: Name=UCC28180-2-V02
+Added Room: Name=UCC28180-3-V02

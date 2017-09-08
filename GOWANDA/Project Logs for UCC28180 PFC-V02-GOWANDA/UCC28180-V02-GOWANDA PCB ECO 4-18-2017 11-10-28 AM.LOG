@@ -1,0 +1,10 @@
+Added Component: Designator=L2(G-51-185LF)
+Added Pin To Net: NetName=NetBR1_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Change Class Name : Old Net Name=UCC 28180-1-V02 New Net Name=UCC 28180-1-V02 -GOWANDA
+Change Class Name : Old Net Name=UCC28180-2-V02 New Net Name=UCC28180-2-V02 - GOWANDA
+Change Class Name : Old Net Name=UCC28180-3-V02 New Net Name=UCC28180-3-V02-GOWANDA
+Added Member To Class: ClassName=UCC28180-3-V02-GOWANDA Member=Component L2 51-1785LF
+Added Room: Name=UCC 28180-1-V02 -GOWANDA
+Added Room: Name=UCC28180-2-V02 - GOWANDA
+Added Room: Name=UCC28180-3-V02-GOWANDA

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetL2_2 Pin=TP16-1
+Removed Member From Class: ClassName=UCC28180-3-V02 Member=TP16
+Added Component: Designator=Q1(TO-247-3)
+Added Component: Designator=W1(Current Sense Wire)
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=CN3-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=NetC16_2 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=VOUT+-1
+Added Pin To Net: NetName=GND Pin=TP19-1
+Added Pin To Net: NetName=NetL2_2 Pin=W1-1
+Added Pin To Net: NetName=NetD6_2 Pin=W1-2
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component Q1 C3M0065090D
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component W1 Wire
+Added Room: Name=UCC 28180-1-V02
+Added Room: Name=UCC28180-2-V02
+Added Room: Name=UCC28180-3-V02

@@ -1,0 +1,61 @@
+Bill of Material for 
+On 4/27/2017 at 11:29:09 AM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+                     CAP0603          1    C9                           Capacitor            
+ 06031C102KAT2A      CAP0603          1    C15                          CAP CER 1000PF 100V X7R 0603 
+ 06035C104KAT2A      CAP0603          1    C7                           CAP CER 0.1UF 50V X7R 0603 
+ 1935776             CONN_1935776     2    CN2, CN3                     CONN TERM BLOCK 2POS 5.0MM 
+ 1935789             CONN_1935789     1    CN1                          CONN TERM BLOCK 3POS 5.0MM 
+ 1N5406              1N5406           1    D5                           DIODE GEN PURP 600V 3A DO201AD 
+ 1SMA12CAT3G         ONSC-SMA-2-403D-02_F_V    1    D2                           400 W Peak Power Zener Transient Voltage Suppressor, 2-Pin SMA, Pb-Free, Tape and Reel 
+ 1SMB5927BT3G        ONSC-SMB-2-403A-03_H_V    1    D3                           3 W Zener Voltage Regulator, 2-Pin SMB, Pb-Free, Tape and Reel 
+ 450QXW120MEFC18X31.5 450QXW120MEFC18X31.5    3    C17, C18, C20                                     
+ 5006                Test Point      14    TP1, TP2, TP3, TP9, TP10     TEST POINT PC COMPACT .063"D BLK 
+                                           TP11, TP12, TP13, TP14, TP15
+                                           TP17, TP18, TP19, TP20
+ 8113-RC             EMI Choke        1    L1                           CMC 5MH 8.9A 2LN TH  
+ C0603--             CAP0603          1    C14                                               
+ C0603C22NF          CAP0603          1    C16                                               
+ C0603C474K4RACTU    CAP0603          1    C10                          CAP CER 0.47UF 16V X7R 0603 
+ C0603C821K5RACTU    CAP0603          1    C12                          CAP CER 820PF 50V X7R 0603 
+ C3D04060A           C3D04060A        1    D6                           DIODE SCHOTTKY 600V 4A TO220-2 
+ C3M0065090D         TO-247-3         1    Q1                           MOSFET N-CH 900V 36A TO247-3 
+ CL-40               CL-40            1    RT1                          ICL 5 OHM 25% 6A 19.56MM 
+ CRCW0603--          RES0603          1    R6                                                
+ CRCW060310K0FKEA    RES0603          1    R14                          RES SMD 10K OHM 1% 1/10W 0603 
+ CRCW060313K3FKEA    RES0603          1    R7                           RES SMD 13.3K OHM 1% 1/10W 0603 
+ CRCW060317K8FKEA    RES0603          1    R1                           RES SMD 17.8K OHM 1% 1/10W 0603 
+ CRCW0603221RFKEA    RES0805          1    R8                           RES SMD 221 OHM 1% 1/10W 0603 
+ CRCW060322K6FKEA    CAP0603          1    R5                           RES SMD 22.6K OHM 1% 1/10W 0603 
+ CRCW0603RES10K      RES0603          1    R11                                               
+ CRCW0805332KFKEA    RES0805          2    R3, R4                       RES SMD 332K OHM 1% 1/8W 0805 
+ CRCW0805340KFKEA    RES0805          1    R2                           RES SMD 340K OHM 1% 1/8W 0805 
+ CRCW0805R10         RES0805          1    R9                                                
+ CRCW0805R4.99       RES0805          1    R10                                               
+ CRCW120649R9FKEA    RES1206          1    R16                          RES SMD 49.9 OHM 1% 1/4W 1206 
+ CRCW2512R0.027      RES2512          1    R15                                               
+ CRCWRSHUNT          RES2512          1    R12                                               
+ CS11-E2GA222MYNS    CS11-E2GA222MYNS    2    C4, C5                       CAP CER 2200PF 250VAC RADIAL 
+ DB2W40300L          Mini2-F3-B       2    D1, D4                                            
+ ECA-1VM470          CAPALUM47U       1    C6                           CAP ALUM 47UF 20% 35V RADIAL 
+ ECQ-U2A334ML        CAPFILM0.33U     1    C3                           CAP FILM 0.33UF 20% 275VAC RAD 
+ ECQ-U2A474ML        ECQ-U2A474ML     2    C1, C2                       CAP FILM 0.47UF 20% 275VAC RAD 
+ ERJ-P14J3R3U        RES1210          1    R13                          RES SMD 3.3 OHM 5% 1/2W 1210 
+ FUSE                0031.8211        1    F1                                                
+ GBU8J-BP            GBU8J            1    BR1                          RECT BRIDGE GPP 8A 600V GBU 
+ GRM188R71H272KA01D  CAP0603          1    C11                          CAP CER 2700PF 50V X7R 0603 
+ GRM21BR71A475KA73L  CAP0805          1    C13                          CAP CER 4.7UF 10V X7R 0805 
+ GRM32RR71H105KA01K  CAP1206          1    C8                           CAP CER 1UF 50V X7R 1210 
+ GRM43DR72J104KW01L  CAP1812          2    C19, C21                     CAP CER 0.1UF 630V X7R 1812 
+ M20-9990246         0603R            1    J5                           SIL VERTICAL PC TAIL PIN HEADER 
+ M20-9990246         JUMPER           3    J1, J3, J6                   SIL VERTICAL PC TAIL PIN HEADER 
+ M20-9990246         RES0603          2    J2, J4                       SIL VERTICAL PC TAIL PIN HEADER 
+ MBR140SFT1G         SODFL360X95-2N    1    D7                           DIODE SCHOTTKY 40V 1A SOD123L 
+ S10K275E2           S10K275E2        1    VAR1                         VARISTOR 430V 3.5KA DISC 10MM 
+ UCC27511DBV         SOP6             1    U2                                                
+ UCC28180DR          SOP127P600X175-8N    1    U1                           IC PFC CTRLR AVERAGE CURR 8SOIC 
+ WA-DT2-101E-ND      WA-DT2-101E-ND    1    HT1                                               
+ Wire                Current Sense Wire    1    W1                                                
+ XFUSMI4846-HO       XFUSMI4846-HO    1    L2                                                

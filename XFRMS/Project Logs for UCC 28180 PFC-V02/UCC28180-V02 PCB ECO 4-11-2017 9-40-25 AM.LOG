@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J4 Old Footprint=JUMPER New Footprint=RES0603
+Added Member To Class: ClassName=UCC28180-3-V02 Member=Component C17 450QXW120MEFC18X31.5
+Added Room: Name=UCC 28180-1-V02
+Added Room: Name=UCC28180-2-V02
+Added Room: Name=UCC28180-3-V02

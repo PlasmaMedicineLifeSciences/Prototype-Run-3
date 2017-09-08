@@ -1,0 +1,2 @@
+Remove Pin=U1-1 From Net=GND
+Change Component Comment: Designator=D5 Old Comment=1N5406RLG New Comment=1N5406
